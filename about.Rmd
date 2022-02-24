@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About"
 ---
 
-More about this website.
+This website is maintained by [Tom Palmer](https://remlapmot.github.io/).
