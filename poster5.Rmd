@@ -1,0 +1,10 @@
+---
+title: ""
+pagetitle: "Poster 5"
+---
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("./posters/lyon_poster-a4-600dpi.png")
+```
+
+Or view the pdf version [here](./posters/lyon_poster-a4.pdf)
