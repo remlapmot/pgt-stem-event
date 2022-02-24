@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("./posters/hughes_ISCB-2019-a4-600dpi.png")
+```
+
+Or view the pdf version [here](./posters/hughes_ISCB-2019-a4.pdf)
