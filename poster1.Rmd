@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: "Poster 1"
 ---
 
 ```{r, echo=FALSE, fig.align='center'}
