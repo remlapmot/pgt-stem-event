@@ -13,5 +13,7 @@ navbar:
       href: poster3.html
     - text: "Poster 4"
       href: poster4.html
+    - text: "Poster 5"
+      href: poster5.html
     - text: "About"
       href: about.html
