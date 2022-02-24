@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("./posters/hughes_HAART_CD4-a4-600dpi.png")
+```
+
+Or view the pdf version [here](./posters/hughes_HAART_CD4-a4.pdf)
