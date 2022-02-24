@@ -1,2 +1,3 @@
 # pgt-stem-event
- Website showing posters for PGT STEM event
+
+Website showing example medical statistics and health data science posters for PGT STEM event.
