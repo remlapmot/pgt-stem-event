@@ -2,6 +2,11 @@
 
 Website showing example medical statistics and health data science posters for PGT STEM event.
 
+<!-- Events
+
+* 2022-03-23
+-->
+
 ## Building the website
 
 To build the website, either
