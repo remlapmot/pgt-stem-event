@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("./posters/palmer_mr2017_poster-a4-600dpi.png")
+```
+
+Or view the pdf version [here](./posters/palmer_mr2017_poster-a4.pdf)
