@@ -5,5 +5,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Poster 1"
+      href: poster1.html
+    - text: "Poster 2"
+      href: poster2.html
+    - text: "Poster 3"
+      href: poster3.html
+    - text: "Poster 4"
+      href: poster4.html
     - text: "About"
       href: about.html
