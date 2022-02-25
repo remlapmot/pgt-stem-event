@@ -15,6 +15,8 @@ navbar:
         href: poster3.html
       - text: "Medical Statistics poster 4"
         href: poster4.html
+      - text: "Medical Statistics poster 5"
+        href: poster7.html
     - text: "Health Data Science posters"
       menu:
       - text: "Health Data Science poster 1"
