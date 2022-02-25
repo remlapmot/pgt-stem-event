@@ -5,17 +5,21 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Poster 1"
-      href: poster1.html
-    - text: "Poster 2"
-      href: poster2.html
-    - text: "Poster 3"
-      href: poster3.html
-    - text: "Poster 4"
-      href: poster4.html
-    - text: "Poster 5"
-      href: poster5.html
-    - text: "Poster 6"
-      href: poster6.html
+    - text: "Medical Statistics posters"
+      menu:
+      - text: "Medical Statistics poster 1"
+        href: poster1.html
+      - text: "Medical Statistics poster 2"
+        href: poster2.html
+      - text: "Medical Statistics poster 3"
+        href: poster3.html
+      - text: "Medical Statistics poster 4"
+        href: poster4.html
+    - text: "Health Data Science posters"
+      menu:
+      - text: "Health Data Science poster 1"
+        href: poster5.html
+      - text: "Health Data Science poster 2"
+        href: poster6.html
     - text: "About"
       href: about.html
