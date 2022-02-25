@@ -1,0 +1,10 @@
+---
+title: ""
+pagetitle: Poster 7
+---
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("./posters/poster_adjusted_iv_model_for_mr-a4-600dpi.png")
+```
+
+Or view the pdf version [here](./posters/poster_adjusted_iv_model_for_mr-a4.pdf)
