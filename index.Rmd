@@ -3,3 +3,6 @@ pagetitle: Example posters
 ---
 
 Please click the links in the navbar above.
+```{r, echo=FALSE, out.width="25%"}
+knitr::include_graphics("img/UoB Faculty of health sciences_RED.svg")
+```
