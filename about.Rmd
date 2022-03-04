@@ -1,5 +1,5 @@
 ---
-title: "About"
+pagetitle: About
 ---
 
 This website is maintained by [Tom Palmer](https://remlapmot.github.io/).
