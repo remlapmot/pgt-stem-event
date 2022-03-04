@@ -2,4 +2,7 @@
 pagetitle: About
 ---
 
+```{r, echo=FALSE, out.width="25%"}
+knitr::include_graphics("img/UoB Faculty of health sciences_RED.svg")
+```
 This website is maintained by [Tom Palmer](https://remlapmot.github.io/).
