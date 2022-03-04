@@ -1,5 +1,5 @@
 ---
-title: "Example posters"
+pagetitle: Example posters
 ---
 
 Please click the links in the navbar above.
